@@ -1,7 +1,7 @@
 body{
     text-align: center;
     font-family:'Times New Roman', Times, serif;
-    background-color: rgb(5, 83, 83)
+    background-color: rgb(6, 92, 92)
 }
 p{
     text-indent: 195px;
@@ -13,10 +13,20 @@ summary{
     margin-bottom: 10px;
 }
 h1{
-    color: rgb(197, 16, 16)
+    color: rgb(107, 3, 3)
+}
+h2{
+    color:rgb(41, 3, 214)
 }
 h4{
     font-style: oblique;
+}
+
+hr{
+    border-width:0;
+    color:black;
+    background-color: black;
+    height:2px;
 }
 
 img{
