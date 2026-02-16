@@ -3,6 +3,11 @@ body{
     font-family:'Times New Roman', Times, serif;
     background-color: rgb(3, 71, 71)
 }
+p{
+    text-indent: 195px;
+    margin-left: 180px;
+    margin-right: 180px;
+}
 h1{
     color: rgb(83, 16, 150)
 }
